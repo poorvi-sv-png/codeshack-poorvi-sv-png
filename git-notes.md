@@ -60,3 +60,15 @@ Example: git remote -v
 Displays details about a commit.
 Example: git show HEAD
 
+---Feature Branch Workflow---
+
+A feature branch lets developers work on new changes without directly modifying the main branch.
+
+Example commands:
+
+1. git branch feature-branch: Creates a branch.
+2. git checkout feature-branch: Switches to the branch.
+3. git add . : Stages changes.
+4. git commit -m "Add feature": Records changes.
+5. git push -u origin feature-branch: Pushes the branch to GitHub.
+
