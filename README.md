@@ -17,3 +17,11 @@ Poorvi SV
 
 -> Goal
 To understand Git commands and learn how developers manage projects using Git.
+
+
+---My Learning Progress---
+
+- ✅ Created my first Git repository
+- ✅ Learned how to stage and commit files
+- ✅ Created a feature branch
+- 🔄 Practising GitHub collaboration
